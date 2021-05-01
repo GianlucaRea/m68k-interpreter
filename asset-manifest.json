@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/m68k-interpreter/static/css/main.497ed357.chunk.css",
+    "main.js": "/m68k-interpreter/static/js/main.f4a5d11b.chunk.js",
+    "main.js.map": "/m68k-interpreter/static/js/main.f4a5d11b.chunk.js.map",
+    "runtime-main.js": "/m68k-interpreter/static/js/runtime-main.de1c4422.js",
+    "runtime-main.js.map": "/m68k-interpreter/static/js/runtime-main.de1c4422.js.map",
+    "static/js/2.960eb1d1.chunk.js": "/m68k-interpreter/static/js/2.960eb1d1.chunk.js",
+    "static/js/2.960eb1d1.chunk.js.map": "/m68k-interpreter/static/js/2.960eb1d1.chunk.js.map",
+    "index.html": "/m68k-interpreter/index.html",
+    "static/css/main.497ed357.chunk.css.map": "/m68k-interpreter/static/css/main.497ed357.chunk.css.map",
+    "static/js/2.960eb1d1.chunk.js.LICENSE.txt": "/m68k-interpreter/static/js/2.960eb1d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de1c4422.js",
+    "static/js/2.960eb1d1.chunk.js",
+    "static/css/main.497ed357.chunk.css",
+    "static/js/main.f4a5d11b.chunk.js"
+  ]
+}
